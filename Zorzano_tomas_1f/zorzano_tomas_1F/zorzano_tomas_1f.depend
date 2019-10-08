@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1570500168 source:d:\nueva carpeta\zorzano_tomas_1f\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"juegos.h"
+	"Fecha.h"
+	"clientes.h"
+	"alquileres.h"
+
+1570491617 source:d:\nueva carpeta\zorzano_tomas_1f\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"Fecha.h"
+	"clientes.h"
+
+1570495596 source:d:\nueva carpeta\zorzano_tomas_1f\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1570495596 d:\nueva carpeta\zorzano_tomas_1f\funciones.h
+
+1570491219 source:d:\nueva carpeta\zorzano_tomas_1f\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"juegos.h"
+
+1570491219 source:d:\nueva carpeta\zorzano_tomas_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"juegos.h"
+	"fecha.h"
+	"clientes.h"
+	"alquileres.h"
+
+1570495650 source:d:\nueva carpeta\zorzano_tomas_1f\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"fecha.h"
+
+1570495650 d:\nueva carpeta\zorzano_tomas_1f\fecha.h
+
+1570490022 d:\nueva carpeta\zorzano_tomas_1f\juegos.h
+
+1570497320 d:\nueva carpeta\zorzano_tomas_1f\clientes.h
+
+1570492038 d:\nueva carpeta\zorzano_tomas_1f\alquileres.h
+
+1570562708 source:c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"juegos.h"
+	"Fecha.h"
+	"clientes.h"
+	"alquileres.h"
+
+1570558649 c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\funciones.h
+
+1570557007 c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\juegos.h
+
+1570562708 c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\fecha.h
+
+1570556520 c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\clientes.h
+
+1570562708 c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\alquileres.h
+
+1570561549 source:c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"Fecha.h"
+	"clientes.h"
+
+1570562708 source:c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"fecha.h"
+
+1570558648 source:c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1570557763 source:c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"juegos.h"
+
+1570561982 source:c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"juegos.h"
+	"fecha.h"
+	"clientes.h"
+	"alquileres.h"
+	"informes.h"
+
+1570561446 source:c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"fecha.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1570561448 c:\users\t13774\desktop\facultad\zorzano_tomas_1f-master\zorzano_tomas_1f\informes.h
+
